@@ -32,7 +32,7 @@ After watching all the videos of the famous Standford's [CS231n](http://cs231n.s
 
 - Full syllabus link: http://cs231n.stanford.edu/syllabus.html
 
-- Assignments solutions: https://github.com/
+- Assignments solutions: https://github.com/learnforrestlearn/CS231n
 
 - Number of lectures: **16**
 
