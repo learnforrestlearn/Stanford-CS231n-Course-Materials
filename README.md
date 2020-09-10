@@ -32,9 +32,7 @@ After watching all the videos of the famous Standford's [CS231n](http://cs231n.s
 
 - Full syllabus link: http://cs231n.stanford.edu/syllabus.html
 
-- Assignments solutions: https://github.com/learnforrestlearn/CS231n
-
-- Assignments for the CS231n course from Stanford University: http://cs231n.github.io/
+- Assignments for the CS231n: http://cs231n.github.io/
 
 - Number of lectures: **16**
 
