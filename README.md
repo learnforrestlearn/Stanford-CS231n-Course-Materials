@@ -2058,4 +2058,3 @@ After watching all the videos of the famous Standford's [CS231n](http://cs231n.s
 
 <br><br>
 <br><br>
-These Notes was made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
